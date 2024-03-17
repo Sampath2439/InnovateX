@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/InnovateX/static/css/main.441ba546.css",
+    "main.js": "/InnovateX/static/js/main.ae6bef4a.js",
+    "static/js/787.d4aba7ab.chunk.js": "/InnovateX/static/js/787.d4aba7ab.chunk.js",
+    "static/media/home-hero-mobile.jpg": "/InnovateX/static/media/home-hero-mobile.36c4a1bf46cf8c7a8728.jpg",
+    "static/media/home-hero.avif": "/InnovateX/static/media/home-hero.31e515d93d6214eff8b5.avif",
+    "index.html": "/InnovateX/index.html",
+    "main.441ba546.css.map": "/InnovateX/static/css/main.441ba546.css.map",
+    "main.ae6bef4a.js.map": "/InnovateX/static/js/main.ae6bef4a.js.map",
+    "787.d4aba7ab.chunk.js.map": "/InnovateX/static/js/787.d4aba7ab.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.441ba546.css",
+    "static/js/main.ae6bef4a.js"
+  ]
+}
